@@ -11,3 +11,5 @@ Comments are writen in the main.m. Here I just remind you some characteristics o
 2. The polar encoder is writen in a "SC deocding style" to accelarate the simulation process. You may not see recursive functiona in this encoder.
 3. I have used some accelaration methods in this MATLAB code. The details are writen in the comments in main.m. If you do not believe in my methods, you can just remove the corresponding MATLAB codes (and then get 'pure' codes without any accelaration). Even without my accelaration methods, this MATLAB code is still fast.
 4. Several polar code construction algorithms are also given. These algorithms are state-of-art and yields good codes. ALL these algorithms can be found in IEEE Xplore. If you are not familar with polar code construction, you can search them in IEEE, for example, "How to construct polar code".
+
+If you find there are obvious errors or probelms in my MATLAB codes, you may e-mail me 498699845@qq.com. Let us study polar codes together.
