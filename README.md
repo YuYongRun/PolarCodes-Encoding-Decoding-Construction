@@ -3,7 +3,7 @@ Polar codes MATLAB implementations, incuding encoder, several types of SC decode
 
 I am not a native English speaker so there may be errors in grammar or typo in these documents or the MATLAB codes.
 
-This is a fast MATLAB codes for polar codes block error (BLER) performance estimation.
+This is fast MATLAB code for polar codes block error (BLER) performance estimation.
 
 Comments are writen in the main.m. Here I just remind you some characteristics of these codes.
 
