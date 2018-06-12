@@ -1,3 +1,5 @@
+There are countless MATLAB codes for polar codes. Why you should at least download and run my MATLAB codes? Well, firstly, this code is relatively fast. Secondly, many additional code construction algorithms are provided here, including GA, channel up/degrading method and something else.
+
 Polar codes MATLAB implementations, including encoder, several types of SC decoder, CRC-SCL decoder and many code construction algorithms.
 I am not a native English speaker so there may be errors in grammar or typo in these documents or the MATLAB codes.
 
